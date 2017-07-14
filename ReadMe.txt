@@ -1,1 +1,1 @@
- just for try!
+ just for kaggle's algorithm for competitions!
